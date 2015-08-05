@@ -1,7 +1,6 @@
 # Geocoder & Elevation from Google Maps
 ##ARCPY100
-For information regarding the functionality , see [here](http://pri0ri7y.github.io/About-Me/) 
-
+<p>For information regarding the functionality , see <a href="http://pri0ri7y.github.io/About-Me/" target="_blank">here</a></p>
 Project | Ref 
 --- | --- 
 ArcPy| ARCPY100
