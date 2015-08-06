@@ -1,0 +1,9 @@
+{
+  "places":"assets/Places.csv",
+  "delimiter":",",
+  "environment":"C:\\Users\\seclan\\Documents\\ArcGIS\\Default.gdb",
+  "poi1":"Chennai",
+  "poi2":"INDIA",
+  "timeout":"0.3",
+  "featureclass":"Geocode_Output"
+}
