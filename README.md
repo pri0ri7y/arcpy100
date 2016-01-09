@@ -1,9 +1,10 @@
 # Geocoder & Elevation from Google Maps
 ##ARCPY100
-<p>For information regarding the functionality , see <a href="http://pri0ri7y.github.io/About-Me/" target="_blank">here</a></p>
 Project | Ref 
 --- | --- 
 ArcPy| ARCPY100
+
+<p>The tool is designed to obtain elevation,geocoder details for a given list of places in a CSV file from google map's web services and creates corresponding features in ArcGIS.<p>
 
 
 ### Editing Config.json
